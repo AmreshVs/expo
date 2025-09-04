@@ -12,6 +12,8 @@
 
 ### 💡 Others
 
+- Prevent unclear errors from being thrown when loading config ([#39384](https://github.com/expo/expo/pull/39384) by [@kitten](https://github.com/kitten))
+
 ## 0.21.9 — 2025-09-03
 
 ### 💡 Others
